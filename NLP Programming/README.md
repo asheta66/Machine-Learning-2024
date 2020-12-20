@@ -1,9 +1,4 @@
 # Natural Language Processing (NLP)
 
-This is a course on NLP.
-
-## Chapter 1
-
-### Chapter 1 sub topic
-
-#### sub topic to the sup topic
+The enclosed codes was part of the book Deep Learning for Natural Language Processing Develop Deep Learning Models for
+Natural Language in Python by Jason Brownlee
