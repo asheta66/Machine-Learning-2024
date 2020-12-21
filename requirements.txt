@@ -2,31 +2,282 @@
 
 # C:\Users\User\Machine-Learning-2020\Feedforward Neural Networks\ANN1.ipynb: 4,5,6
 # C:\Users\User\Machine-Learning-2020\Feedforward Neural Networks\ANN2.ipynb: 4,5,6
-# C:\Users\User\Machine-Learning-2020\NLP Programming\Chapter 4\.ipynb_checkpoints\4.3.1 Multilayer Perceptron-checkpoint.ipynb: 2,3,4,5
-# C:\Users\User\Machine-Learning-2020\NLP Programming\Chapter 4\.ipynb_checkpoints\4.3.2 Convolutional Neural Network-checkpoint.ipynb: 2,3,4,5,6,7
-# C:\Users\User\Machine-Learning-2020\NLP Programming\Chapter 4\.ipynb_checkpoints\4.3.3 Recurrent Neural Network-checkpoint.ipynb: 2,3,4,5,6
-# C:\Users\User\Machine-Learning-2020\NLP Programming\Chapter 4\4.3.1 Multilayer Perceptron.ipynb: 2,3,4,5
-# C:\Users\User\Machine-Learning-2020\NLP Programming\Chapter 4\4.3.2 Convolutional Neural Network.ipynb: 2,3,4,5,6,7
-# C:\Users\User\Machine-Learning-2020\NLP Programming\Chapter 4\4.3.3 Recurrent Neural Network.ipynb: 2,3,4,5,6
-keras == 2.4.3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\2_deep_versions.ipynb: 8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\2_deep_versions.py: 8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_04\1_functional_mlp.ipynb: 2,3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_04\1_functional_mlp.py: 2,3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_04\2_functional_cnn.ipynb: 2,3,4,5,6,7
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_04\2_functional_cnn.py: 2,3,4,5,6,7
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_04\3_functional_rnn.ipynb: 2,3,4,5,6
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_04\3_functional_rnn.py: 2,3,4,5,6
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\1_split_words.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\1_split_words.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\2_prepare_vocab.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\2_prepare_vocab.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\3_one_hot_encode.ipynb: 1,2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\3_one_hot_encode.py: 1,2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\4_hash_encode.ipynb: 1,2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\4_hash_encode.py: 1,2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\5_example_tokenizer.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_07\5_example_tokenizer.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\5_prepare_data.ipynb: 6
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\5_prepare_data.py: 6
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\6_mlp_bow_model.ipynb: 6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\6_mlp_bow_model.py: 6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.ipynb: 6,7,8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.py: 6,7,8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\8_prediction.ipynb: 6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\8_prediction.py: 6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_13\1_embedding_example.ipynb: 2,3,4,5,6,7
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_13\1_embedding_example.py: 2,3,4,5,6,7
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_13\2_pretrained_embedding.ipynb: 4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_13\2_pretrained_embedding.py: 4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\4_cnn_model.ipynb: 5,6,7,8,9,10,11,12,13
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\4_cnn_model.py: 5,6,7,8,9,10,11,12,13
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\5_evaluate.ipynb: 5,6,7
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\5_evaluate.py: 5,6,7
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\3_model.ipynb: 3,4,5,6,7,8,9,10,11,12,13,14
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\3_model.py: 3,4,5,6,7,8,9,10,11,12,13,14
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\4_evaluate.ipynb: 3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\4_evaluate.py: 3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_18\2_train_model.ipynb: 3,4,5,6,7
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_18\2_train_model.py: 3,4,5,6,7
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_18\3_generate.ipynb: 3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_18\3_generate.py: 3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\1_model1.ipynb: 2,3,4,5,6,7,8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\1_model1.py: 2,3,4,5,6,7,8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\2_model2.ipynb: 2,3,4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\2_model2.py: 2,3,4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\3_model3.ipynb: 2,3,4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\3_model3.py: 2,3,4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_20\2_train_model.ipynb: 3,4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_20\2_train_model.py: 3,4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_20\3_generate.ipynb: 3,4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_20\3_generate.py: 3,4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_23\1_classify_image.ipynb: 1,2,3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_23\1_classify_image.py: 1,2,3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\01_load_photos.ipynb: 3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\01_load_photos.py: 3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\02_pre_calculate_features.ipynb: 4,5,6,7,8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\02_pre_calculate_features.py: 4,5,6,7,8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\05_whole_description_model.ipynb: 1,2,3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\05_whole_description_model.py: 1,2,3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\06_word_by_word.ipynb: 2,3,4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\06_word_by_word.py: 2,3,4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\07_progressive_loading.ipynb: 4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\07_progressive_loading.py: 4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\1_extract_features.ipynb: 4,5,6,7,8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\1_extract_features.py: 4,5,6,7,8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\4_train_model.ipynb: 3,4,5,6,7,8,9,10,11,12,13,14
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\4_train_model.py: 3,4,5,6,7,8,9,10,11,12,13,14
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\5_evaluate_model.ipynb: 3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\5_evaluate_model.py: 3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\6_save_tokenizer.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\6_save_tokenizer.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\7_generate_description.ipynb: 3,4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\7_generate_description.py: 3,4,5,6,7,8,9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\3_train_model.ipynb: 3,4,5,6,7,8,9,10,11,12,13
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\3_train_model.py: 3,4,5,6,7,8,9,10,11,12,13
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\4_generate.ipynb: 3,4,5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\4_generate.py: 3,4,5
+Keras == 2.4.3
+
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\1_example_word2vec.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\1_example_word2vec.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\2_plot_model.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\2_plot_model.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\3_word_vector_arithmetic.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\3_word_vector_arithmetic.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\4_example_glove.ipynb: 1,2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\4_example_glove.py: 1,2
+gensim == 3.8.3
 
 # C:\Users\User\Machine-Learning-2020\Feedforward Neural Networks\ANN1.ipynb: 7
 # C:\Users\User\Machine-Learning-2020\Feedforward Neural Networks\ANN2.ipynb: 7
+# C:\Users\User\Machine-Learning-2020\Latex Examples.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.ipynb: 8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.py: 8
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.ipynb: 10
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.py: 10
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\2_plot_model.ipynb: 3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\2_plot_model.py: 3
 # C:\Users\User\Machine-Learning-2020\Simple Linear Regression\Simple_Linear_Regression.ipynb: 5
 matplotlib == 3.3.3
 
-# C:\Users\User\Machine-Learning-2020\NLP Programming\Chapter 5\.ipynb_checkpoints\5.5 Tokenization and Cleaning with NLTK-checkpoint.ipynb: 1,3,12,21,32,37,38,58,59
-# C:\Users\User\Machine-Learning-2020\NLP Programming\Chapter 5\5.5 Tokenization and Cleaning with NLTK.ipynb: 1,3,12,21,32,37,38,58,59
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\06_nltk_download.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\06_nltk_download.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\07_nltk_split_sentences.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\07_nltk_split_sentences.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\08_nltk_split_words.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\08_nltk_split_words.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\09_nltk_remove_punctuation.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\09_nltk_remove_punctuation.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\10_nltk_stop_words.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\10_nltk_stop_words.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\11_nltk_filter_stop_words.ipynb: 3,4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\11_nltk_filter_stop_words.py: 3,4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\12_nltk_stemming.ipynb: 1,2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_05\12_nltk_stemming.py: 1,2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\05_clean_review.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\05_clean_review.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\06_clean_review_func.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\06_clean_review_func.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\07_clean_and_build_vocab.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\07_clean_and_build_vocab.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\08_build_vocabulary.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\08_build_vocabulary.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\10_save_clean_filtered_reviews.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_09\10_save_clean_filtered_reviews.py: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\1_clean_review.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\1_clean_review.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\2_select_vocab.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\2_select_vocab.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\3_filter_vocab.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\3_filter_vocab.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\4_filter_all_reviews.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\4_filter_all_reviews.py: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\5_prepare_data.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\5_prepare_data.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\6_mlp_bow_model.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\6_mlp_bow_model.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\8_prediction.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\8_prediction.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\1_clean_review.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\1_clean_review.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\2_select_vocab.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\2_select_vocab.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\3_filter_vocab.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\3_filter_vocab.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\1_clean_review.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\1_clean_review.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\2_clean_all_reviews.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\2_clean_all_reviews.py: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\01_sentence_bleu.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\01_sentence_bleu.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\02_corpus_bleu.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\02_corpus_bleu.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\03_individual_1gram_bleu.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\03_individual_1gram_bleu.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\04_individual_ngram_bleu.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\04_individual_ngram_bleu.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\05_cumulative_4gram_bleu.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\05_cumulative_4gram_bleu.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\06_cumulative_ngram_bleu.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\06_cumulative_ngram_bleu.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\07_example_perfect.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\07_example_perfect.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\08_example_one_word_diff.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\08_example_one_word_diff.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\09_example_two_words_diff.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\09_example_two_words_diff.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\10_example_all_diff.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\10_example_all_diff.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\11_example_shorter.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\11_example_shorter.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\12_example_longer.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\12_example_longer.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\13_example_too_short.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_24\13_example_too_short.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\5_evaluate_model.ipynb: 6
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\5_evaluate_model.py: 6
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\4_generate.ipynb: 6
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\4_generate.py: 6
 nltk == 3.5
 
+# C:\Users\User\Machine-Learning-2020\Latex Examples.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\5_prepare_data.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\5_prepare_data.py: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\6_mlp_bow_model.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\6_mlp_bow_model.py: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.py: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\8_prediction.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\8_prediction.py: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_13\1_embedding_example.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_13\1_embedding_example.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_13\2_pretrained_embedding.ipynb: 1,2,3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_13\2_pretrained_embedding.py: 1,2,3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\4_cnn_model.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\4_cnn_model.py: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\5_evaluate.ipynb: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_15\5_evaluate.py: 4
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\3_model.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\3_model.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\4_evaluate.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_16\4_evaluate.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_18\2_train_model.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_18\2_train_model.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_18\3_generate.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_18\3_generate.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\1_model1.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\1_model1.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\2_model2.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\2_model2.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\3_model3.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_19\3_model3.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_20\2_train_model.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_20\2_train_model.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\06_word_by_word.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\06_word_by_word.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\07_progressive_loading.ipynb: 3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_25\07_progressive_loading.py: 3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\4_train_model.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\4_train_model.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\5_evaluate_model.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\5_evaluate_model.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\7_generate_description.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_26\7_generate_description.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\1_prepare_data.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\1_prepare_data.py: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\2_split_data.ipynb: 3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\2_split_data.py: 3
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\3_train_model.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\3_train_model.py: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\4_generate.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_30\4_generate.py: 2
 # C:\Users\User\Machine-Learning-2020\Simple Linear Regression\Simple_Linear_Regression.ipynb: 4
-numpy == 1.18.0
+numpy == 1.19.4
 
+# C:\Users\User\Machine-Learning-2020\Latex Examples.ipynb: 6
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.ipynb: 11
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.py: 11
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.ipynb: 9
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_10\7_compare_encodings.py: 9
 # C:\Users\User\Machine-Learning-2020\Simple Linear Regression\Simple_Linear_Regression.ipynb: 6
 pandas == 1.1.3
 
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.py: 2
+scipy == 1.5.4
+
 # C:\Users\User\Machine-Learning-2020\Feedforward Neural Networks\ANN1.ipynb: 2,3
 # C:\Users\User\Machine-Learning-2020\Feedforward Neural Networks\ANN2.ipynb: 2,3
-# C:\Users\User\Machine-Learning-2020\NLP Programming\Chapter 6\Untitled.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\Latex Examples.ipynb: 17,22
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.ipynb: 17
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.py: 17
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_06\1_example_countvector.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_06\1_example_countvector.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_06\2_example_tfidf.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_06\2_example_tfidf.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_06\3_example_hash.ipynb: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_06\3_example_hash.py: 1
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\2_plot_model.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\chapter_12\2_plot_model.py: 2
 # C:\Users\User\Machine-Learning-2020\Simple Linear Regression\Simple_Linear_Regression.ipynb: 17,22
 sklearn == 0.0
+
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.ipynb: 14
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\1_versions.py: 14
+statsmodels == 0.12.1
+
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\2_deep_versions.ipynb: 5
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\2_deep_versions.py: 5
+tensorflow_gpu == 1.15.0
+
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\2_deep_versions.ipynb: 2
+# C:\Users\User\Machine-Learning-2020\NLP Programming\appendix_02\2_deep_versions.py: 2
+theano == 1.0.5
