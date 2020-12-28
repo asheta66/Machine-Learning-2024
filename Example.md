@@ -16,12 +16,12 @@ Using a combination of text and images slides can be avoided all together and ev
 
 ### SubTopic
 
-Here I have subtopic on the topic, which will be Latex equations
+Here I have subtopic on the topic. 
 
-\begin{align}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{align}
+## New Topic
 
-This should render as mathematical equations. 
+All topics and subtopics are indicated by `#` More may be added to decrease the size, such as `##` or `###`. Between the hashmark and the text there should be one space. 
+
+# Closing notes
+
+The Markdown file works well when you want to include direct information for the students to read. 
