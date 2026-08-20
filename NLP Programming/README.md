@@ -1,4 +1,0 @@
-# Natural Language Processing (NLP)
-
-The enclosed codes was part of the book Deep Learning for Natural Language Processing Develop Deep Learning Models for
-Natural Language in Python by Jason Brownlee
